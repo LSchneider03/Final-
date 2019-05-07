@@ -1,0 +1,64 @@
+h1, body, p {
+    margin: 0;
+    padding: 0;
+} 
+
+.HH {
+    background: #3498DB;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 50px;
+    margin: 0;
+    text-align: center;
+}
+.HH a:hover{
+color:#FE5858;
+}
+.HH a {
+    text-decoration: none;
+    color: white
+}
+
+.h1 {
+    text-decoration: none; 
+    font-size: 10px;
+    color: white;
+    padding-right: 8px;
+}
+.HC {
+    padding: 32px 16px 32px 16px;
+    margin: 50px 128px;
+    font-size: 20px;
+    text-align: center;
+}
+.HF {
+    text-align: center;
+    margin-top: 12px;
+}
+.HF a:hover {
+color: blue;
+}
+.HF a {
+    text-decoration: none;
+    color:#FE5858;
+}
+.fa {
+    font-size: 32px;
+}
+.Contact2 {
+margin: 30px 150px; 
+padding: 30px;
+border-radius: none;
+ text-align:center;
+ background: #3498DB 
+
+}
+button {
+    border-color: #FE5858;
+    border: none;
+    border-radius: round;
+    padding: 16px;
+    background: #E74C3C;
+}
+
